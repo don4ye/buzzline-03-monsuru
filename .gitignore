@@ -12,10 +12,7 @@ __pycache__/
 # macOS system files
 .DS_Store
 
-# Ignore data files
-*.csv
-*.json
-data/
+
 
 # Ignore logs
 *.log
